@@ -1,0 +1,1 @@
+import{_ as n,c as s,o as _}from"./entry-954db78a.mjs";const o={setup(t,{expose:r}){r();const e={};return Object.defineProperty(e,"__isScriptSetup",{enumerable:!1,value:!0}),e}};function a(t,r,e,c,p,u){return _(),s("h1",null," Examlpe site ")}var i=n(o,[["render",a]]);export{i as default};
